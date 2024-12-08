@@ -1,4 +1,4 @@
-# GenAI Catalyst
+# ASPLOS'25 Tutorial: GenAI Catalyst
 
 ## Abstract
 
