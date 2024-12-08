@@ -25,8 +25,10 @@ For any further questions, please contact [Xupeng Miao](https://hsword.github.io
 
 |  |  Organizer |
 | ------------- | :------------- |
-| <img src="https://hsword.github.io/assets/img/photo_me.jpg" width=300 align=right> |**Xupeng Miao** is a Kevin C. and Suzanne L. Kahn New Frontiers Assistant Professor in the Department of Computer Science at Purdue University. |
-|<img src="https://www.cs.cmu.edu/~zhihaoj2/photo.jpg" width=300 align=right>|**Zhihao Jia** is an assistant professor in the Computer Science Department at Carnegie Mellon University. |
+| <img src="https://hsword.github.io/assets/img/photo_me.jpg" width=20% align=right> |**Xupeng Miao** is a Kevin C. and Suzanne L. Kahn New Frontiers Assistant Professor in the Department of Computer Science at Purdue University. |
+|<img src="https://www.cs.cmu.edu/~zhihaoj2/photo.jpg" width=20% align=right>|**Zhihao Jia** is an assistant professor in the Computer Science Department at Carnegie Mellon University. |
 
- <img src="https://www.asplos-conference.org/wp-content/uploads/2024/06/ASPLOS2025-Logo-black-1.png" width=200 align=center>
- <img src="https://catalyst.cs.cmu.edu/img/logo/catalyst.svg" width=200 align=right>
+<p align="center">
+ <img src="https://www.asplos-conference.org/wp-content/uploads/2024/06/ASPLOS2025-Logo-black-1.png" width=25%>
+ <img src="https://catalyst.cs.cmu.edu/img/logo/catalyst.svg" width=25%>
+</p>
