@@ -10,16 +10,16 @@ Participants will learn about the latest research in AI infrastructure to signif
 
 ## This tutorial
 
-This tutorial will be held at [ASPLOS 2025](https://www.asplos-conference.org/asplos2025/) in Rotterdam on Sunday, March 30th, 2025, morning at Room Goudriaan II of Postillion Hotel & Convention Centre WTC Rotterdam.
+This tutorial will be held at [ASPLOS 2025](https://www.asplos-conference.org/asplos2025/) in Rotterdam on Sunday, March 30th, 2025, morning (9:00 AM) at Room Goudriaan II of Postillion Hotel & Convention Centre WTC Rotterdam.
 
 ### Tentative Schedule
 
 | Time  | Topic | 
 | ------------- | :-------------: | 
-|10 mins|Introduction|
-|60 mins|Efficient Compilers for Generative AI|
+|15 mins|Introduction|
+|75 mins|Efficient Compilers for Generative AI|
 |30 mins|Coffee break|
-|90 mins|Efficient Systems for Generative AI|
+|60 mins|Efficient Systems for Generative AI|
 |Closing Remark|Closing Remark|
 
 ## Organizer
@@ -27,7 +27,7 @@ This tutorial will be held at [ASPLOS 2025](https://www.asplos-conference.org/as
 |  |  Organizer |
 | ------------- | :------------- |
 | <img src="https://hsword.github.io/assets/img/photo_me.jpg" width="300" align=center> |**Xupeng Miao** is a Kevin C. and Suzanne L. Kahn New Frontiers Assistant Professor in the Department of Computer Science at Purdue University. |
-|<img src="https://www.cs.cmu.edu/~zhihaoj2/photo.jpg" width="300" align=center>|**Zhihao Jia** is an assistant professor in the Computer Science Department at Carnegie Mellon University. |
+|<img src="https://www.cs.cmu.edu/~zhihaoj2/photo.jpg" width="300" align=center>|**Zhihao Jia** is an Assistant Professor in the Computer Science Department at Carnegie Mellon University. |
 
 ## Contact us
 For any further questions, please contact [Xupeng Miao](https://hsword.github.io) via <xupeng@purdue.edu>. 
